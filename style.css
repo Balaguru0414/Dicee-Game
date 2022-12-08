@@ -1,0 +1,76 @@
+.container{
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+
+body{	
+	background-color: #393E46;
+}
+
+h1{
+	font-size: 4rem;
+	color: #4ECCA3;
+	text-shadow: 5px 0px #232931;
+	margin: 30px;
+	font-family: 'Mochiy Pop One',cursive;
+}
+
+.dice{
+	text-align: center;
+	display: inline-block;
+}
+
+p{
+	font-size: 30px;
+	color: #4ECCA3;
+	font-family: 'Pacifico',cursive;
+}
+
+img {
+  width: 80%;
+}
+
+
+h2,h3{
+	font-size: 1.5rem;
+	font-family: 'Mochiy Pop One',cursive;
+	color: #4ECCA3;
+}
+
+footer{
+	margin-top: 3%;
+	text-align: center;
+	font-family: 'Pacifico',cursive;
+	font-size: 1.5rem;
+	color: #eeeeee;
+}
+
+
+
+
+
+
+
+
+
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
